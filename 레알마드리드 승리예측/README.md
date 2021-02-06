@@ -12,6 +12,10 @@
 - 주기적으로 업데이트하면서 예측과 결과 비교해보기
 - 레알마드리드 vs 우에스카 경기(2월7일), 레알마드리드 48% 승리 예측 (21년02월02일 기준)
 
+### 추가사항
+- 캐글에 데이터셋 업로드 완료
+https://www.kaggle.com/khalidpark/realmadrid-football-results-data-set
+
 ---
 # 레알마드리드 승리예측
 
